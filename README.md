@@ -6,9 +6,8 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23D81B60.svg?logo=matplotlib&style=flat-square&logoColor=white)](https://matplotlib.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?logo=scikit-learn&style=flat-square&logoColor=white)](https://scikit-learn.org/)
  
-This repository shows all the projects developed as a part of internship at Feynn Labs [Feynn Labs](https://feynnlabs.com/).
 
-- **Internship Role**: Machine Learning Intern
+- **Internship Role**: Data Science Intern Intern
 - **Internship Duration**: December 2023 to January 2024
 - **Internship Mode**: Virtual
 

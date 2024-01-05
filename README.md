@@ -22,4 +22,5 @@ Build a machine learning model to identify fraudelent cases in credit card using
 ***
 
 ### :zap: [MovieRatingPredictor]()
+Build an ML model that predicts the rating of a movie based on features like genre, director, and actors.
 ***

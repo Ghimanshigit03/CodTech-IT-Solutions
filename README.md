@@ -21,6 +21,6 @@ Build a machine learning model that predicts the sales of various products in Bi
 Build a machine learning model to identify fraudelent cases in credit card using various regression and classification algorithms
 ***
 
-### :zap: [MovieRatingPredictor]()
+### :zap: [MovieRatingPredictor](https://github.com/Ghimanshigit03/CodTech-IT-Solutions/tree/main/Sales_Prediction/MovieRatingPredictor)
 Build an ML model that predicts the rating of a movie based on features like genre, director, and actors.
 ***

@@ -13,7 +13,7 @@
 
 <br>
 
-### :zap: [BigMarketSalesPrediction](https://github.com/Ghimanshigit03/CodTech-IT-Solutions/blob/main/Big_market_sales_prediction.ipynb)
+### :zap: [BigMarketSalesPrediction](https://github.com/Ghimanshigit03/CodTech-IT-Solutions/tree/main/Sales_Prediction)
 Build a machine learning model that predicts the sales of various products in BigMarket stores. It utilizes historical sales data and relevant features to make accurate predictions, enabling store managers to optimize inventory and make informed decisions.
 ***
 

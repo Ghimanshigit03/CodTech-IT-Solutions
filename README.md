@@ -17,7 +17,7 @@
 Build a machine learning model that predicts the sales of various products in BigMarket stores. It utilizes historical sales data and relevant features to make accurate predictions, enabling store managers to optimize inventory and make informed decisions.
 ***
 
-### :zap: [CreditCardFraudDetection](https://github.com/Ghimanshigit03/CodTech-IT-Solutions/blob/main/Implementation_Insurance_Claims.ipynb)
+### :zap: [CreditCardFraudDetection](https://github.com/Ghimanshigit03/CodTech-IT-Solutions/tree/main/Credit_Card_Fraud_Detection)
 Build a machine learning model to identify fraudelent cases in credit card using various regression and classification algorithms
 ***
 
